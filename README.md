@@ -1,16 +1,21 @@
-## Hi there 👋
+#  Hi there 👋, I'm Ricardo Pretorius
+## About Me
 
-<!--
-**RicardoPret/RicardoPret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-📚 I'm currently a student at Wayne State College in Nebraska 
 
-Here are some ideas to get you started:
+- 🧑‍🎓I'm currently studing two majors. The first is a Major in Business Administration/Management and the second is Computer Information Systems/Programmer Analyst
+  
+- 🧑‍🏫 I can code .java, .cpp, .py, .sql, .cobol, .html
+  
+- 🏉 I also enjoy playing rugby
+  
+- 📬 How to reach me **ripret01@wsc.edu**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I have already completed my business management degree and are looking to graduate in both Bus Admin and CIS in May of 2025.
+
+
+### Fun facts 
+  I would consider playing chess as one of my hobies and I am also currently employed at FNBO. 
+
+
